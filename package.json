@@ -1,0 +1,28 @@
+{
+  "name": "js-monkey",
+  "version": "0.0.1",
+  "description": "Discord bot for Code Monkeys",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node lib/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jndachenhaus/js-monkey.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "js-monkey",
+    "nodejs"
+  ],
+  "author": "Jacob Dachenhaus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jndachenhaus/js-monkey/issues"
+  },
+  "homepage": "https://github.com/jndachenhaus/js-monkey#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+}
